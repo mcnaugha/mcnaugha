@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @mcnaugha
+- 👋 Hi, I’m @mcnaugha and I live near Glasgow, Scotland, UK
 - 👀 I’m interested in Apple, Microsoft, Linux,  Raspberry Pi, Enterprise architecture and device management
-- 🌱 I’m currently learning not much IT these days. My Enterprise IT career started in 1998. I'm actually learning Business Management now.
+- 🌱 I’m currently learning not much IT these days. My Enterprise IT career started in 1998. I'm actually learning Business Management now
 - 📫 How to reach me : @mcnaugha on Twitter
 
 <!---
